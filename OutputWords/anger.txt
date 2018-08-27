@@ -1,0 +1,12 @@
+[]
+[]
+[]
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+\wlpTestEdited.txt, none, anger, with mama when she was anger bed-mama got really mad when
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+\wlpTestEdited.txt, none, anger, with mama when she was anger bed-mama got really mad when
+['test.txt', 'wlpTest.txt', 'wlpTestEdited.txt']
+\wlpTestEdited.txt, none, anger, with mama when she was anger bed-mama got really mad when

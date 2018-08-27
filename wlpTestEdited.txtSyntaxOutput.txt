@@ -1,0 +1,3 @@
+VNDN,teach(vvi) him(ppho1) a(at1) lesson(nn1)
+VNN,seen(vvn) sesame(np1) street(nnl1)
+VDNDNNV,touch(vv0) the(at) hot(nn1) thing(at) that(nn1) mama(nn1) used(vmk)
